@@ -46,7 +46,7 @@ git clone https://github.com/seu-usuario/calculadora.git
 
 Exemplo:
 ![Imagem do projeto] <br>
-<img src=""/>
+<img src="assets/img_projeto.png"/>
 
 ---
 ## 👩‍💻 Desenvolvedora
