@@ -35,7 +35,7 @@ git clone https://github.com/seu-usuario/calculadora.git
 ## 🎮 Atalhos de Teclado
 
 * 0-9 → Inserir números
-* + - * / → Operadores
+* \+ \- \* \/ → Operadores
 * Enter ou = → Calcular resultado
 * Backspace → Apagar último dígito
 * C → Limpar tudo
